@@ -1,5 +1,10 @@
 A 21-year-old ambitious and hard-working software engineer with a penchant for delivering in high-expectation scenarios. My capacity for rapid learning, combined with my excellent communication skills, sets me apart. My academic and professional journey has granted me the privilege to acquire a multitude of skills, ensuring my proficiency in both front-end and back-end development.
 
+Experienced in a wide range of skills including:
+
+LANGUAGES:  JavaScript, Python, Node, HTML, CSS	DATABASES:  SQLite3, PostgreSQL, Sequelize
+FRAMEWORKS: Flask, React, SQLalchemy, Redux, Express	TOOLS: OAUth
+OTHER: AWS, Outside API integration
 <!--
 **Martynodlrr/Martynodlrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
