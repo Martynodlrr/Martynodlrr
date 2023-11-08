@@ -1,7 +1,4 @@
-A 21-year-old software engineer, I've consistently showcased my adaptability and determination in high-pressure situations throughout my academic and professional endeavors. My unique blend of rapid learning ability and exemplary communication skills differentiates me from my peers. With a diverse repertoire of skills, I excel in both front-end and back-end development, fluent in languages such as JavaScript and Python, and proficient in frameworks like Flask and React.
-
-About Me:
-Driven by ambition and a dedication to excellence, I have carved out a space for myself in the world of software engineering. My experiences have exposed me to an expansive set of tools and technologies, including but not limited to Node, HTML, CSS, and an array of databases like SQLite3 and PostgreSQL. I have a knack for integrating external APIs, and my familiarity with AWS demonstrates my competence in modern cloud infrastructure. My proficiency doesn't end with just languages and frameworks; tools like OAUth and Sequelize are integral to my professional toolkit. Above all, I am always on the lookout for opportunities to grow, innovate, and bring about meaningful contributions.
+I'm a driven software engineer known for thriving in high-pressure scenarios. My quick learning ability, coupled with effective communication skills, distinguishes me. Proficient in technologies like JavaScript, Python, HTML, CSS, SQLite3, PostgreSQL, React, Redux, Flask, Express, Sequelize, SQLalchemy, Material UI, AWS, Auth0, and API integration, I excel in both front-end and back-end development.
 <!--
 **Martynodlrr/Martynodlrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
