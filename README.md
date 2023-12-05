@@ -1,4 +1,4 @@
-I'm a driven software engineer known for thriving in high-pressure scenarios. My quick learning ability, coupled with effective communication skills, distinguishes me. Proficient in technologies like JavaScript, Python, HTML, CSS, SQLite3, PostgreSQL, React, Redux, Flask, Express, Sequelize, SQLalchemy, Material UI, AWS, Auth0, and API integration, I excel in both front-end and back-end development.
+Software engineer with experience thriving in high-pressure scenarios. Proficient in JavaScript, Python, HTML, CSS, SQLite3, PostgreSQL, React, Redux, Flask, Express, Sequelize, SQLAlchemy, Material UI, AWS, Auth0, and API integration. I excel in both front-end and back-end development
 <!--
 **Martynodlrr/Martynodlrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
